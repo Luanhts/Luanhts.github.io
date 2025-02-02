@@ -1,7 +1,7 @@
 # Blog Pessoal com Hugo
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/06d14554-12e4-4cf3-8859-781d41105796" width="500" />
+    <img src="https://github.com/user-attachments/assets/06d14554-12e4-4cf3-8859-781d41105796" width="600" />
 </div>
 
 <https://luanhts.github.io/>
