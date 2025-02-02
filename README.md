@@ -32,3 +32,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ---
 
 Feito por [Luanhts](https://github.com/Luanhts)
+Com ajuda da [JenniferOenning](https://github.com/jenniferoenning), [Tutorial](https://www.youtube.com/watch?v=UJIOiOGnfdg)
