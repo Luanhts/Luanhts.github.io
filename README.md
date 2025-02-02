@@ -4,7 +4,6 @@
 - **Backend**: Criado com Node.js e Express para gerar o QR Code.
 <div align="center">
     <img src="![Captura de tela 2025-02-02 122114](https://github.com/user-attachments/assets/06d14554-12e4-4cf3-8859-781d41105796)
-
 " width="400" />
 </div>
 
