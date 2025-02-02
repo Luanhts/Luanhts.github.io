@@ -1,12 +1,8 @@
 # Blog Pessoal com Hugo
 
-- **Frontend**: Criado com React e Vite.
-- **Backend**: Criado com Node.js e Express para gerar o QR Code.
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/06d14554-12e4-4cf3-8859-781d41105796
-" width="400" />
+    <img src="https://github.com/user-attachments/assets/06d14554-12e4-4cf3-8859-781d41105796" width="400" />
 </div>
-
 
 <https://luanhts.github.io/>
 
@@ -22,7 +18,6 @@ Este é um blog pessoal desenvolvido utilizando a ferramenta [Hugo](https://gohu
 - [Git](https://git-scm.com/) - Controle de versão
 - [GitHub Pages] - Hospedagem do blog
 
-
 ## 🎨 Tema Utilizado
 
 O blog foi criado utilizando o tema **[PaperMod]**, que pode ser encontrado no repositório oficial do Hugo em [Hugo Themes](https://themes.gohugo.io/). Caso queira customizar o tema, basta editar os arquivos na pasta `themes`.
@@ -30,7 +25,6 @@ O blog foi criado utilizando o tema **[PaperMod]**, que pode ser encontrado no r
 ## 📜 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
 
 ---
 
