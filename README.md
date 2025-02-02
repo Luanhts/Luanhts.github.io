@@ -1,7 +1,9 @@
 # Blog Pessoal com Hugo
 
+- **Frontend**: Criado com React e Vite.
+- **Backend**: Criado com Node.js e Express para gerar o QR Code.
 <div align="center">
-    <img src="![image](https://github.com/user-attachments/assets/f51cb65f-8f3c-442e-9a41-d7d6dfbb733c)" width="400" />
+    <img src="https://github.com/user-attachments/assets/9d27f3f5-7e2f-4c75-bdae-b221bd7e673e" width="400" />
 </div>
 
 
