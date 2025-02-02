@@ -1,8 +1,7 @@
 # Blog Pessoal com Hugo
 
 <div align="center">
-    <img src="![Captura de tela 2025-02-02 122114](https://github.com/user-attachments/assets/003f74de-a4be-418d-8adc-65cbb4a969b3)
-" width="400" />
+    <img src="![image](https://github.com/user-attachments/assets/f51cb65f-8f3c-442e-9a41-d7d6dfbb733c)" width="400" />
 </div>
 
 
