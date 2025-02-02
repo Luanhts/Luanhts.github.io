@@ -17,7 +17,8 @@ Este é um blog pessoal desenvolvido utilizando a ferramenta [Hugo](https://gohu
 - [GitHub Pages] - Hospedagem do blog
 
 <div align="center">
-    <img src="![image](https://github.com/user-attachments/assets/89bca2b5-d28c-4ce4-85f0-208b0bc0bf8c)" width="400" />
+    <img src="![Captura de tela 2025-02-02 122114](https://github.com/user-attachments/assets/affbba2c-982f-4784-8afa-e302c43429e6)
+" width="400" />
 </div>
 
 ## 🎨 Tema Utilizado
