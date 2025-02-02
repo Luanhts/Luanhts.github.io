@@ -3,7 +3,8 @@
 - **Frontend**: Criado com React e Vite.
 - **Backend**: Criado com Node.js e Express para gerar o QR Code.
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/9d27f3f5-7e2f-4c75-bdae-b221bd7e673e" width="400" />
+    <img src="![image](https://github.com/user-attachments/assets/c8f515a9-28bd-4179-b28a-3e01cf45123a)
+" width="400" />
 </div>
 
 
