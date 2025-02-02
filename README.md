@@ -1,6 +1,10 @@
 # Blog Pessoal com Hugo
 
-![Hugo Logo](https://gohugo.io/images/hugo-logo-wide.svg)
+<div align="center">
+    <img src="![Captura de tela 2025-02-02 122114](https://github.com/user-attachments/assets/affbba2c-982f-4784-8afa-e302c43429e6)
+" width="400" />
+</div>
+
 
 <https://luanhts.github.io/>
 
@@ -16,10 +20,6 @@ Este é um blog pessoal desenvolvido utilizando a ferramenta [Hugo](https://gohu
 - [Git](https://git-scm.com/) - Controle de versão
 - [GitHub Pages] - Hospedagem do blog
 
-<div align="center">
-    <img src="![Captura de tela 2025-02-02 122114](https://github.com/user-attachments/assets/affbba2c-982f-4784-8afa-e302c43429e6)
-" width="400" />
-</div>
 
 ## 🎨 Tema Utilizado
 
